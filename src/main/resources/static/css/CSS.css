@@ -19,6 +19,23 @@ nav {
 
 }
 
+.indhold-venstre {
+    float: left;
+    width: 50%;
+    height: 400px;
+    background: #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.indhold-hojre {
+    float: right;
+    width: 50%;
+    height: 400px;
+    background: #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+}
 
 .menu {
     margin-top: 40px;
