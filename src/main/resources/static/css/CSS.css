@@ -39,6 +39,15 @@ nav {
     box-sizing: border-box;
 }
 
+.indhold-venstre {
+    float: right;
+    width: 50%;
+    height: 400px;
+    background: #ccc;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
 .menu {
     margin-top: 40px;
     background-color: grey;
