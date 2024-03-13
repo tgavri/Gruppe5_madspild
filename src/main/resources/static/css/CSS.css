@@ -82,6 +82,37 @@ nav {
     margin-right: 20px;
 }
 
+.indhold-venstre {
+
+}
+
+.indhold-venstre-kontakt {
+    float: left;
+    width: 50%;
+    height: 400px;
+    background: #FFFFFF;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 0;
+    text-decoration: none;
+    color: black;
+    flex-direction: column;
+    align-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.indhold-hojre-kontakt {
+    float: right;
+    width: 50%;
+    height: 400px;
+    background: #FFFFFF;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+
 .input-container{
     display: flex;
     justify-content: center;
