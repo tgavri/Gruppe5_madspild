@@ -137,11 +137,11 @@ nav {
 .left-section {
     background: #ccc;
     margin: 20px;
-    flex-basis: calc(50% - 40px); /* Adjust the width as needed */
+    flex-basis: calc(50% - 40px);
 }
 
 .right-section {
     background: #ccc;
     margin: 20px;
-    flex-basis: calc(50% - 40px); /* Adjust the width as needed */
+    flex-basis: calc(50% - 40px);
 }
