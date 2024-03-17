@@ -151,3 +151,25 @@ nav {
     background: #ccc;
     padding: 20px;
 }
+
+.restaurant-logo-partner-img{
+    margin-top: 50px;
+}
+
+.restaurant-logo-partner-p{
+    margin-top: 65px;
+}
+
+.section-partner{
+    cursor: pointer;
+    padding: 0 20px 20px 20px;
+}
+
+.section-partner:hover {
+    transform: scale(1.05);
+}
+
+.left-section-partner {
+    background: #ccc;
+    margin: 20px;
+}
